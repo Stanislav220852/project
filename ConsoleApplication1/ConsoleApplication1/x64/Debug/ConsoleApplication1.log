@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+D:\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,63): error C2059: syntax error: ';'
+D:\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(17,5): error C2059: syntax error: 'return'
+D:\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,1): error C2059: syntax error: '}'
+D:\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,1): error C2143: syntax error: missing ';' before '}'
