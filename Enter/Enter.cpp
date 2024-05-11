@@ -27,14 +27,7 @@ int main() {
 		break;
 		
 	}
-		
-		game();
-		break;
-		
-	
-		
-	}
-	
+
 }
 
 void calc ()
