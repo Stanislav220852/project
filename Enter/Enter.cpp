@@ -2,7 +2,6 @@
 using namespace std;
 void calc();
 void game();
-void menu();
 int main() {
 	setlocale(LC_ALL, "RU");
 	srand(time(NULL));
@@ -49,7 +48,7 @@ void calc ()
 		break;
 	}
 	cout << res << endl;
-	menu();
+	main();
 	
 }
 void game() {
@@ -66,9 +65,6 @@ void game() {
 
 	}
 	cout << "Ты выйграл!" << endl;
-	menu();
-	
-}
-void menu() {
 	main();
+	
 }
