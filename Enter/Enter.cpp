@@ -54,6 +54,7 @@ void calc ()
 	}
 	cout << res << "\n";
 	main();
+}
 	
 }
 void game() {
