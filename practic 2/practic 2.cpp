@@ -10,7 +10,7 @@ int main() {
 	int user_size_sym;
 	int opt;
 	char user_sym;
-	cout << "Enter number: ";
+	cout << "Enter character: ";
 	cin >> user_sym;
 	cout << "Enter number of characters: ";
 	cin >> user_size_sym;
