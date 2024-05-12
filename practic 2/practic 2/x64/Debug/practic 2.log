@@ -1,3 +1,0 @@
-﻿  practic 2.cpp
-D:\C++\practic 2\practic 2.cpp(41,1): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
-  practic 2.vcxproj -> D:\C++\practic 2\x64\Debug\practic 2.exe
