@@ -12,11 +12,11 @@ int main() {
 	int user_size_sym;
 	int opt;
 	char user_sym;
-	cout << "Ââåäèòå ñèìâîë: ";
+	cout << "Ã‚Ã¢ÄºÃ¤ÄÅˆÄº Å„ÄÄ›Ã¢Ã®Ã«: ";
 	cin >> user_sym;
-	cout << "Ââåäèòå ÷èñëî ñèìâîëîâ: ";
+	cout << "Ã‚Ã¢ÄºÃ¤ÄÅˆÄº Ã·ÄÅ„Ã«Ã® Å„ÄÄ›Ã¢Ã®Ã«Ã®Ã¢: ";
 	cin >> user_size_sym;
-	cout << "Ââåäèòå îïöèþ: \n" << "1.Âåðòèêàëüíàÿ ëèíèÿ\n" << "2.Ãîðèçîíòàëüíàÿ ëèíèÿ\n";
+	cout << "Ã‚Ã¢ÄºÃ¤ÄÅˆÄº Ã®ÄÃ¶ÄÅ£: \n" << "1.Ã‚ÄºÄ‘ÅˆÄÄ™Å•Ã«Ã¼Ã­Å•Ë™ Ã«ÄÃ­ÄË™\n" << "2.Ä‚Ã®Ä‘ÄÃ§Ã®Ã­ÅˆÅ•Ã«Ã¼Ã­Å•Ë™ Ã«ÄÃ­ÄË™\n";
 	cin >> opt;
 	if (opt == 1) {
 		if (user_sym == user_sym) {
@@ -40,159 +40,6 @@ int main() {
 
 }
 
-	
-	/*switch (sym)
-	{
-	case '!': {
-		if (opt == 1) {
-			while (size_sym < user_size_sym) {
-				cout << "! ";
-				size_sym += 1;
-			}
-		}
-		else if (opt == 2) {
-			while (size_sym < user_size_sym) {
-				cout << "! \n";
-				size_sym += 1;
-			}
-		}
-		else {
-			cout << "Error";
-		}
-		cout << "\n";
-		main();
-
-	}
-			break;
-
-	case '@': {
-		if (opt == 1) {
-			while (size_sym < user_size_sym) {
-				cout << "@ ";
-				size_sym += 1;
-			}
-		}
-		else if (opt == 2) {
-			while (size_sym < user_size_sym) {
-				cout << "@ \n";
-				size_sym += 1;
-			}
-		}
-		else {
-			cout << "Error";
-		}
-		cout << "\n";
-		main();
-	}
-			break;
-
-	case '#': {
-		if (opt == 1) {
-			while (size_sym < user_size_sym) {
-				cout << "# ";
-				size_sym += 1;
-			}
-		}
-		else if (opt == 2) {
-			while (size_sym < user_size_sym) {
-				cout << "# \n";
-				size_sym += 1;
-			}
-		}
-		else {
-			cout << "Error";
-		}
-		cout << "\n";
-		main();
-	}
-			break;
-	case '$': {
-		if (opt == 1) {
-			while (size_sym < user_size_sym) {
-				cout << "$ ";
-				size_sym += 1;
-			}
-		}
-		else if (opt == 2) {
-			while (size_sym < user_size_sym) {
-				cout << "$ \n";
-				size_sym += 1;
-			}
-		}
-		else {
-			cout << "Error";
-		}
-		cout << "\n";
-		main();
-	}
-			break;
-	case '%': {
-		if (opt == 1) {
-			while (size_sym < user_size_sym) {
-				cout << "% ";
-				size_sym += 1;
-			}
-		}
-		else if (opt == 2) {
-			while (size_sym < user_size_sym) {
-				cout << "% \n";
-				size_sym += 1;
-			}
-		}
-		else {
-			cout << "Error";
-		}
-		cout << "\n";
-		main();
-	}
-			break;
-	case '^': {
-		if (opt == 1) {
-			while (size_sym < user_size_sym) {
-				cout << "^ ";
-				size_sym += 1;
-			}
-		}
-		else if (opt == 2) {
-			while (size_sym < user_size_sym) {
-				cout << "^ \n";
-				size_sym += 1;
-			}
-		}
-		else {
-			cout << "Error";
-		}
-		cout << "\n";
-		main();
-	}
-			break;
-	case '&': {
-		if (opt == 1) {
-			while (size_sym < user_size_sym) {
-				cout << "& ";
-				size_sym += 1;
-			}
-		}
-		else if (opt == 2) {
-			while (size_sym < user_size_sym) {
-				cout << "& \n";
-				size_sym += 1;
-			}
-		}
-		else {
-			cout << "Error";
-		}
-		cout << "\n";
-		main();
-	}
-			break;
-	default: {
-		cout << "Error\n";
-	
-		main();
-	}
-		   break;
-	}*/
 
 
 
