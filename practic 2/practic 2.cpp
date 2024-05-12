@@ -7,8 +7,7 @@ using namespace std;
 
 int main() {
 	setlocale(LC_ALL, "RU");
-
-	int size_sym = 0;
+        int size_sym = 0;
 	int user_size_sym;
 	int opt;
 	char user_sym;
