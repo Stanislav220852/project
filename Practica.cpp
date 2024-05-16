@@ -3,6 +3,7 @@ int main() {
 
     using namespace std;
 	setlocale(LC_ALL,"RU");
+	// https://programmersforum.ru/showthread.php?t=68723
 	//#1
 	/*for (int i = 10; i <= 20; ++i) {
 		cout << i * i<<"\n";
@@ -55,7 +56,7 @@ int main() {
 	float res;
     int size = 0;
 	cout << "Select operation: \n";
-	cout << "1.from fathoms(ρΰζενει) to meters\n"
+	cout << "1.from fathoms(Γ±Γ Γ¦Γ₯Γ­Γ₯Γ©) to meters\n"
 		 << "2.inches to centimeters\n"
 		 << "3.feet to meters\n"
 		 << "4.drachmas to grams\n"
